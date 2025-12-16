@@ -26,7 +26,7 @@ h1 {
 }
 
 table {
-  border: 10px solid blue;
+  border: 10px double navy;
   border-collapse: separate;
   border-spacing: 30px;
   text-align: center;
@@ -34,7 +34,7 @@ table {
 
 table th,
 table td {
-  border: 2px solid rgba(142, 142, 16, 0.751); /* crea le righe verticali */
+  border: 2px dotted rgba(11, 11, 0, 0.751);
   padding: 10px;
 }
 footer {
