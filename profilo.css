@@ -95,3 +95,9 @@ footer {
 .navbar .navbar-toggler-icon {
   color: goldenrod !important;
 }
+.logo-cerchio {
+  width: 150px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}
